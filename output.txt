@@ -1,0 +1,6 @@
+Number of vowels in the input string: 16
+Number of vowels in the input string: 4
+Number of vowels in the input string: 6
+Number of vowels in the input string: 5
+Number of vowels in the input string: 4
+Number of vowels in the input string: 2
